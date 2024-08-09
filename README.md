@@ -14,6 +14,8 @@ The application provides an interface for users to perform the following PGP ope
 - **Send Secure Emails**: Combine encryption and signing to send emails that are both confidential and authenticated.
 
 ENCRYPT: 
+
+
 ![ENCRYPT](https://github.com/user-attachments/assets/a4dff74b-6161-4d8e-b8d7-804ca0541ed2)
 
 DECRYPT: 
