@@ -13,13 +13,17 @@ The application provides an interface for users to perform the following PGP ope
 - **Sign Messages**: Authenticate your messages with a digital signature using your private key.
 - **Send Secure Emails**: Combine encryption and signing to send emails that are both confidential and authenticated.
 
-ENCRYPT: ![ENCRYPT](https://github.com/user-attachments/assets/a4dff74b-6161-4d8e-b8d7-804ca0541ed2)
+ENCRYPT: 
+![ENCRYPT](https://github.com/user-attachments/assets/a4dff74b-6161-4d8e-b8d7-804ca0541ed2)
 
-DECRYPT: ![DECRYPT](https://github.com/user-attachments/assets/d06455e0-5bd1-46c9-a8cc-2c3ca42ccbcf)
+DECRYPT: 
+![DECRYPT](https://github.com/user-attachments/assets/d06455e0-5bd1-46c9-a8cc-2c3ca42ccbcf)
 
-SEND: ![SEND](https://github.com/user-attachments/assets/79a61db0-c91c-4d05-9337-814b65ba47f5)
+SEND: 
+![SEND](https://github.com/user-attachments/assets/79a61db0-c91c-4d05-9337-814b65ba47f5)
 
-MAIL: ![RESULT](https://github.com/user-attachments/assets/98d01451-cdfd-409c-81d5-efe19d78734d)
+MAIL: 
+![RESULT](https://github.com/user-attachments/assets/98d01451-cdfd-409c-81d5-efe19d78734d)
 
 EXIT: ![EXIT](https://github.com/user-attachments/assets/7f1bd8f4-0c46-42ff-8834-9211114af5b0)
 
