@@ -30,7 +30,8 @@ MAIL:
 
 ![RESULT](https://github.com/user-attachments/assets/98d01451-cdfd-409c-81d5-efe19d78734d)
 
-EXIT: ![EXIT](https://github.com/user-attachments/assets/7f1bd8f4-0c46-42ff-8834-9211114af5b0)
+EXIT:
+![EXIT](https://github.com/user-attachments/assets/7f1bd8f4-0c46-42ff-8834-9211114af5b0)
 
 
 ## Architecture
