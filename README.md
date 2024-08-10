@@ -30,7 +30,7 @@ MAIL:
 RESULT](https://github.com/user-attachments/assets/98d01451-cdfd-409c-81d5-efe19d78734d)
 
 
-DECRYPT: 
+DECRYPT (it automatically verify the signature): 
 
 ![DECRYPT](https://github.com/user-attachments/assets/d06455e0-5bd1-46c9-a8cc-2c3ca42ccbcf)
 
