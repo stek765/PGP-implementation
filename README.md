@@ -56,12 +56,15 @@ The architecture is designed to ensure secure and reliable communication:
 
 
 
-## Security Features
+## Security Features IN CONCLUSION:
 - **HTTPS Communication**: All API calls between the client and server are secured using HTTPS, protecting data in transit.
 - **PGP Encryption**: Ensures the confidentiality of the message content.
 - **PGP Signing**: Validates the authenticity and integrity of the messages.
 
 
+
+
+- - - - - - - - - - -
 ## Getting Started
 To get started with this application, follow the steps below:
 
